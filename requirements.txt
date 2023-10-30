@@ -1,0 +1,4 @@
+tensorflow  # You need TensorFlow for Keras
+PIL  # Install Pillow for image processing
+numpy
+opencv-python
